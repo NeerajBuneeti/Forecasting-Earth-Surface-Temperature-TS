@@ -9,7 +9,7 @@ Accurate temperature forecasts are essential for planning and mitigating the imp
 
 In this project, we aim to forecast Earth's surface temperature using historical temperature data spanning two centuries. By employing state-of-the-art forecasting models, we seek to provide valuable insights into future temperature trends and contribute to the ongoing efforts to combat climate change.
 
-Table of Contents  
+Table of Contents:    
 Problem Definition  
 Dataset Details  
 Data Preparation  
