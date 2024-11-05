@@ -1,4 +1,4 @@
-# Forecasting-Earth-Surface-Temperature
+# Forecasting-Earth-Surface-Temperature [TS]
 This repository consists of my understanding of time series and its analysis for optimal forecast
 
 Earth Surface Temperature Forecasting Project
