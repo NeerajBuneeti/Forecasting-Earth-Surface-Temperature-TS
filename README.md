@@ -75,6 +75,6 @@ python run_forecast.py
 ## 📧 Let’s Connect!
 If you're excited about Machine Learning, AI, or data-driven innovation, I’d love to connect! Whether it’s brainstorming ideas, collaborating on projects, or just geeking out over cool models, feel free to reach out.
 
-📬 Email: vneerajvardhanbuneeti@gmail.com
+📬 Email: neerajvardhanbuneeti@gmail.com
 
 Let’s build something amazing together! 🚀🤖
